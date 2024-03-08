@@ -55,13 +55,19 @@
     <main>
         <section id="about">
             <h2>About Me</h2>
-            <p>Replace this text with information about yourself.</p>
+            <p>my self to guys yourself.</p>
         </section>
         <section id="portfolio">
             <h2>Portfolio</h2>
-            <p>Replace this text with your portfolio items or projects.</p>
+            <p>scrap</p>
         </section>
         <section id="contact">
             <h2>Contact Me</h2>
-            <p>Replace this text with your contact information.</p>
-        </sec
+            <p>try palang.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Justine Wayne Fajardo - BSIT-NA-3A</p>
+    </footer>
+</body>
+</html>
