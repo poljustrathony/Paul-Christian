@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Justine Wayne Fajardo - BSIT-NA-3A</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            text-align: center;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px 0;
+        }
+        h1 {
+            margin-bottom: 0;
+        }
+        nav {
+            background-color: #666;
+            padding: 10px 0;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        main {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Justine Wayne Fajardo</h1>
+        <p>BSIT-NA-3A</p>
+    </header>
+    <nav>
+        <a href="#about">About</a>
+        <a href="#portfolio">Portfolio</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <main>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Replace this text with information about yourself.</p>
+        </section>
+        <section id="portfolio">
+            <h2>Portfolio</h2>
+            <p>Replace this text with your portfolio items or projects.</p>
+        </section>
+        <section id="contact">
+            <h2>Contact Me</h2>
+            <p>Replace this text with your contact information.</p>
+        </sec
